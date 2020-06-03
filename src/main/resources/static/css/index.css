@@ -1,0 +1,24 @@
+body{
+    background-image: url("http://getwallpapers.com/wallpaper/full/9/0/b/90103.jpg") !important;
+    background-size: cover;
+}
+
+
+h1 {
+    font-size: 3em;
+    color: #000000;
+    font-weight: 100;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-family: "Roboto", sans-serif;
+}
+a{
+    font-size: 1em;
+    color: #5f9eff;
+    font-weight: 100;
+    text-transform: capitalize;
+    letter-spacing: 4px;
+    font-family: "Roboto", sans-serif;
+
+
+}
